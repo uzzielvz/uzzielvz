@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Uzziel Valdez
 Software Engineering student focused on web development, algorithms, and systems.  
 I build, learn, and solve problems through real-world projects. Transforming ideas into functional digital experiences.
 
@@ -16,8 +15,6 @@ I build, learn, and solve problems through real-world projects. Transforming ide
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
 ![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
 ![Cursor](https://img.shields.io/badge/-Cursor-333?style=flat&logo=cursor)
-
-![Uzziel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzzielvdz&show_icons=true&theme=dark)
 
 
 ### What I care about
