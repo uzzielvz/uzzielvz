@@ -1,4 +1,4 @@
-## Uzziel Valdez  
+## Uzziel Valdèz
 Software Engineering student focused on web development, algorithms, and systems.  
 I build, learn, and solve problems through real-world projects.  
 
