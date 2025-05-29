@@ -20,5 +20,7 @@ I build, learn, and solve problems through real-world projects. Transforming ide
 ### What I care about
 Clean code · Useful products · Learning by building · Constant improvement
 
+![Uzziel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzzielvdz&show_icons=true&theme=github_dark&hide=contribs&rank_icon=github&hide_title=true&include_all_commits=true&line_height=20&card_width=300)
+
 📫 Reach me on [LinkedIn](https://linkedin.com/in/uzzielvdz) · [X / Twitter](https://x.com/uzzielvdz) · [Website](https://uzziel.dev) · [Instagram](https://instagram.com/uzzielvdz)
 
