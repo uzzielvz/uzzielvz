@@ -25,4 +25,4 @@ Clean code · Useful products · Learning by building · Constant improvement
 </table>
  
 
-📫 Reach me on [LinkedIn](https://linkedin.com/in/uzzielvdz) · [X / Twitter](https://x.com/uzzielvdz) · [Website](https://uzziel.dev) · [Instagram](https://instagram.com/uzzielvdz)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/uzziel-vald%C3%A9z-397aa7307/) · [X / Twitter](https://x.com/uzzielvdz) · [Website](https://uzzielvdz.com) · [Instagram](https://instagram.com/uzzielvdz)
