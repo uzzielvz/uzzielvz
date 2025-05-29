@@ -18,13 +18,8 @@ Clean code · Useful products · Learning by building · Constant improvement
     <td>
       <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzzielvdz&layout=compact&theme=github_dark&hide_border=true&card_width=180" alt="Top Languages" />
     </td>
-  </tr>
-  <tr>
     <td>
       <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=uzzielvdz&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td align="center" valign="middle" style="font-size: 14px;">
-      ![Followers](https://img.shields.io/github/followers/uzzielvdz?label=Followers&style=social&color=gray)
     </td>
   </tr>
 </table>
