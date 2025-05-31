@@ -13,13 +13,13 @@ Clean code · Useful products · Learning by building · Constant improvement
 <table>
   <tr>
     <td>
-      <img height="120" src="https://github-readme-stats.vercel.app/api?username=uzzielvdz&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=true&line_height=18&card_width=180" alt="GitHub Stats"/>
+      <img height="120" src="https://github-readme-stats.vercel.app/api?username=uzzielvz&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=true&line_height=18&card_width=180" alt="GitHub Stats"/>
     </td>
     <td>
-      <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzzielvdz&layout=compact&theme=github_dark&hide_border=true&card_width=180" alt="Top Languages" />
+      <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzzielvz&layout=compact&theme=github_dark&hide_border=true&card_width=180" alt="Top Languages" />
     </td>
     <td>
-      <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=uzzielvdz&theme=dark&hide_border=true" alt="GitHub Streak" />
+      <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=uzzielvz&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
