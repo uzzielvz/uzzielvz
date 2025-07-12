@@ -1,6 +1,6 @@
 ## Uzziel Valdéz 
 Software Engineering student focused on web development, algorithms, and systems.  
-I build, learn, and solve problems through real-world projects. 
+I build, learn, and solve problems through real-world projects.
 I care about:
 Clean code · Useful products · Learning by building · Constant improvement   
 
