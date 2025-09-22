@@ -1,24 +1,17 @@
-## Uzziel Valdéz O.
-Software Engineering student focused on web development, algorithms, and systems.  
-I build, learn, and solve problems through real-world projects.
-I care about:
-Clean code · Useful products · Learning by building · Constant improvement
+**Software Engineering Intern @ Financial Services Firm**  
+Developing web and desktop applications that support data analysis and automation in financial environments.  
+Focused on building scalable, maintainable, and business-oriented solutions.
 
-### Languages & Tools  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java) ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c) ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql) ![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django) ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask) 
+---
 
-### GitHub Stats
+### Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,html,css,flask,nextjs,django" />
+</p>
 
-<table>
-  <tr>
-    <td>
-      <img height="120" src="https://github-readme-stats.vercel.app/api?username=uzzielvz&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=true&line_height=18&card_width=180" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzzielvz&layout=compact&theme=github_dark&hide_border=true&card_width=180" alt="Top Languages" />
-    </td>
-    <td>
-      <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=uzzielvz&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+---
+
+### About Me
+- Software Engineering student with a strong focus on web application development and systems automation.  
+- Interested in the integration of intelligent models into production-ready applications.  
+- Committed to best practices, code quality, and continuous professional growth.
