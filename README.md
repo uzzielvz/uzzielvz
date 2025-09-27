@@ -1,20 +1,12 @@
-**Software Engineering Intern @ Financial Services Firm**  
-Developing web and desktop applications that support data analysis and automation in financial environments.  
-Focused on building scalable, maintainable, and business-oriented solutions.
+Software Engineering Intern | Financial Services
+Developing web and desktop applications that enhance data analysis and automate workflows in financial environments. Focused on building scalable, maintainable, and business-oriented solutions.
 
----
+Tech Stack
+<p align="left"> - **Programming Languages:** <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,php,html,css" /> - **Frameworks & Libraries:** <img src="https://skillicons.dev/icons?i=flask,fastapi,django,nextjs,react,pandas,numpy" /> </p>
+About Me
 
-### Tech Stack
-<p align="left">
-  -Programming Lenguages: 
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,php,html,css" />
-  -Frameworks and libraries:
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,nextjs,react,pandas,numpy" />
-</p>
+Software Engineering student passionate about web application development and systems automation.
 
----
+Keen on integrating intelligent models into production-ready applications.
 
-### About Me
-- Software Engineering student with a strong focus on web application development and systems automation.  
-- Interested in the integration of intelligent models into production-ready applications.  
-- Committed to best practices, code quality, and continuous professional growth.
+Committed to best practices, high-quality code, and continuous professional growth.
