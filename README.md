@@ -1,9 +1,12 @@
 Software Engineering Intern | Financial Services
 Developing web and desktop applications that enhance data analysis and automate workflows in financial environments. Focused on building scalable, maintainable, and business-oriented solutions.
 
-Tech Stack
-<p align="left"> - **Programming Languages:** <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,php,html,css" /> - **Frameworks & Libraries:** <img src="https://skillicons.dev/icons?i=flask,fastapi,django,nextjs,react,pandas,numpy" /> </p>
-About Me
+### Tech Stack
+
+| Languages | Frameworks & Libraries |
+|-----------|-----------------------|
+| Java, C, Python, JavaScript, TypeScript, PHP, HTML, CSS | Flask, FastAPI, Django, Next.js, React, Pandas, NumPy |
+
 
 Software Engineering student passionate about web application development and systems automation.
 
