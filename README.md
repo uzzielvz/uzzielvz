@@ -10,7 +10,7 @@ Developing web and desktop applications that enhance data analysis and automate 
 <img src="https://skillicons.dev/icons?i=java" width="24"/> <img src="https://skillicons.dev/icons?i=c" width="24"/> <img src="https://skillicons.dev/icons?i=python" width="24"/> <img src="https://skillicons.dev/icons?i=js" width="24"/> <img src="https://skillicons.dev/icons?i=ts" width="24"/> <img src="https://skillicons.dev/icons?i=php" width="24"/> <img src="https://skillicons.dev/icons?i=html" width="24"/> <img src="https://skillicons.dev/icons?i=css" width="24"/>
 
 **Frameworks & Libraries:**  
-<img src="https://skillicons.dev/icons?i=flask" width="24"/> <img src="https://skillicons.dev/icons?i=fastapi" width="24"/> <img src="https://skillicons.dev/icons?i=django" width="24"/> <img src="https://skillicons.dev/icons?i=nextjs" width="24"/> <img src="https://skillicons.dev/icons?i=react" width="24"/> <img src="https://skillicons.dev/icons?i=pandas" width="24"/> <img src="https://skillicons.dev/icons?i=numpy" width="24"/>
+<img src="https://skillicons.dev/icons?i=flask" width="24"/> <img src="https://skillicons.dev/icons?i=fastapi" width="24"/> <img src="https://skillicons.dev/icons?i=django" width="24"/> <img src="https://skillicons.dev/icons?i=nextjs" width="24"/> <img src="https://skillicons.dev/icons?i=react" width="24"/> <img src="https://skillicons.dev/icons?i=pandas" width="24"/> <img src="https://skillicons.dev/icons?i=numpy" width="24"/> <img src="https://skillicons.dev/icons?i=pandas" width="24"/> <img src="https://skillicons.dev/icons?i=numpy" width="24"/>
 
 ---
 
