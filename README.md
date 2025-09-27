@@ -18,4 +18,4 @@ Developing web and desktop applications that enhance data analysis and automate 
 
 - Software Engineering student passionate about web application development and systems automation.  
 - Keen on integrating intelligent models into production-ready applications.  
-- Committed to best practices, high-quality code, and continuous professional growth.
+- Committed to best practices, high-quality code, and continuous growth.
