@@ -6,7 +6,10 @@ Focused on building scalable, maintainable, and business-oriented solutions.
 
 ### Tech Stack
 <p align="left">
-  Programming Lenguages: <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,html,css,flask,nextjs,django" />
+  Programming Lenguages: 
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,php,html,css" />
+  Frameworks and libraries:
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,nextjs,react,pandas,numpy" />
 </p>
 
 ---
