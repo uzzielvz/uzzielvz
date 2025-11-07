@@ -6,4 +6,3 @@ I spend most of my time at work using **Python** for data processing, and I have
 
 I love building systems and tools that make people's lives easier, exploring new technologies AND experiences, and solving challenging problems.
 
-
