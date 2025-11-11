@@ -7,4 +7,3 @@ I also have some exposure to **C++ and C** from school projects.
 
 I love building systems and tools that make people's lives easier, exploring new technologies, experiences, and solving challenging problems.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzzielvz&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
