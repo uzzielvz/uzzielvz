@@ -1,6 +1,6 @@
 ### I'm Uzziel
 
-A **Software Engineering student** and currently a **Software & Data Intern** at a financial company in Mexico.  
+A **Software Engineering student** and currently a **Software & Data Intern** at a Mexican financial institution.  
 
 I spend most of my time at work using **Python** for data processing, and I have strong experience with **Java**, along with **React** and **TypeScript** for web applications.
 
