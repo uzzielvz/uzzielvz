@@ -1,8 +1,4 @@
 ### I'm Uzziel
 
-A **Software Engineering student** and currently a **Software & Data Intern** at a Mexican financial institution.  
-
-I spend most of my time at work using **Python** for work with data (ML, data analysis) , and I have strong experience with **Java**, and **TypeScript** (FrontEnd & Backend) for web applications.
-
-I love building systems and tools that make people's lives easier, exploring new technologies, experiences, and solving challenging problems.
-
+I'm a Software Engineering & Data Intern at a Mexican financial institution, where I work daily with Python for ML and data analysis.
+I build web applications with TypeScript and JavaScript (full-stack), and have solid experience with Java. Currently exploring Go out of genuine interest in systems-level thinking.
